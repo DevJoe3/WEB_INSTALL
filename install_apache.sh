@@ -6,9 +6,10 @@ cd DOWNLOADS
 
 #install binaries needed to build C programs
 apt-get update
-apt-get install build-essentials
+apt-get install build-essential
 apt-get install libpcre3-dev
 apt install libexpat-dev
+apt install apache2-dev
 
 
 
