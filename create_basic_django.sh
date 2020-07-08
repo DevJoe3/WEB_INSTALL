@@ -1,4 +1,5 @@
 apt-get install python3.6
+apt install python3-pip
 mkdir PROJECT
 cd PROJECT
 
