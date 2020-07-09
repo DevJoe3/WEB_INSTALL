@@ -1,6 +1,7 @@
 apt-get install python3.6
 apt-get install python3-venv
 apt install python3-pip
+apt install python3-django
 
 mkdir PROJECT
 cd PROJECT
